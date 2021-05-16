@@ -6,62 +6,6 @@
       "maintainer": "Navarro Systems",
       "websiteURL": "https://navarrosystems.com",
       "email" : "info@navarrosystems.com",
-      "platforms":
-      [
-        {
-          "name": "Navarro Systems Boards",
-          "architecture": "samd",
-          "version": "1.0",
-          "category": "Contributed",
-          "url": "https://github.com/Max-GH1/Navarro_Systems_Boards/blob/main/navarro_systems_boards_1.0.zip?raw=true",
-          "archiveFileName": "navarro_systems_boards_1.0.zip",
-          "checksum": "SHA-256:2B4467CD5B4EB9350E38654FC713DC310D632F0FC62152B20990632736F4D102",
-          "size": "1592150",
-          "boards": [
-            {
-              "name": "Automatic Zero Base"
-            }
-          ],
-          "toolsDependencies":
-[
-            {
-              "packager": "adafruit",
-              "name": "arm-none-eabi-gcc",
-              "version": "9-2019q4"
-            },
-            {
-              "packager": "arduino",
-              "name": "bossac",
-              "version": "1.7.0-arduino3"
-            },
-            {
-              "packager": "arduino",
-              "name": "bossac",
-              "version": "1.8.0-48-gb176eee"
-            },
-            {
-              "packager": "arduino",
-              "name": "openocd",
-              "version": "0.10.0-arduino7"
-            },
-            {
-              "packager": "adafruit",
-              "name": "CMSIS",
-              "version": "5.4.0"
-            },
-            {
-              "packager": "adafruit",
-              "name": "CMSIS-Atmel",
-              "version": "1.2.1"
-            },
-            {
-              "packager": "arduino",
-              "name": "arduinoOTA",
-              "version": "1.2.1"
-            }
-          ]
-        }
-      ],
       "tools":
       [
         {
@@ -323,6 +267,62 @@
           ],
           "name": "wiced_dfu",
           "version": "1.0.0"
+        }
+      ],
+      "platforms":
+      [
+        {
+          "name": "Navarro Systems Boards",
+          "architecture": "samd",
+          "version": "1.0",
+          "category": "Contributed",
+          "url": "https://github.com/Max-GH1/Navarro_Systems_Boards/blob/main/navarro_systems_boards_1.0.zip?raw=true",
+          "archiveFileName": "navarro_systems_boards_1.0.zip",
+          "checksum": "SHA-256:2B4467CD5B4EB9350E38654FC713DC310D632F0FC62152B20990632736F4D102",
+          "size": "1592150",
+          "boards": [
+            {
+              "name": "Automatic Zero Base"
+            }
+          ],
+          "toolsDependencies":
+			[
+            {
+              "packager": "adafruit",
+              "name": "arm-none-eabi-gcc",
+              "version": "9-2019q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.7.0-arduino3"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino7"
+            },
+            {
+              "packager": "adafruit",
+              "name": "CMSIS",
+              "version": "5.4.0"
+            },
+            {
+              "packager": "adafruit",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.2.1"
+            }
+          ]
         }
       ]
     }
