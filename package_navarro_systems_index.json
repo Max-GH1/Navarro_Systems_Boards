@@ -1,13 +1,8 @@
 {
-  "packages":
-  [
+  "packages": [
     {
-      "name": "navarro_systems",
-      "maintainer": "Navarro Systems",
       "websiteURL": "https://navarrosystems.com",
-      "email" : "info@navarrosystems.com",
-      "tools":
-      [
+      "tools": [
         {
           "name": "CMSIS",
           "version": "5.4.0",
@@ -269,13 +264,15 @@
           "version": "1.0.0"
         }
       ],
-      "platforms":
-      [
+      "name": "navarro_systems",
+      "email": "info@navarrosystems.com",
+      "maintainer": "Navarro Systems",
+      "platforms": [
         {
           "name": "Navarro Systems Boards",
           "architecture": "samd",
           "version": "1.0",
-          "category": "Contributed",
+          "category": "Navarro Systems",
           "url": "https://github.com/Max-GH1/Navarro_Systems_Boards/blob/main/navarro_systems_boards_1.0.zip?raw=true",
           "archiveFileName": "navarro_systems_boards_1.0.zip",
           "checksum": "SHA-256:2B4467CD5B4EB9350E38654FC713DC310D632F0FC62152B20990632736F4D102",
@@ -285,8 +282,7 @@
               "name": "Automatic Zero Base"
             }
           ],
-          "toolsDependencies":
-			[
+          "toolsDependencies": [
             {
               "packager": "adafruit",
               "name": "arm-none-eabi-gcc",
