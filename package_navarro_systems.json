@@ -2,20 +2,20 @@
   "packages":
   [
     {
-      "name": "automatic_zero_base",
+      "name": "automatic_zero",
       "maintainer": "Navarro Systems",
       "websiteURL": "https://navarrosystems.com",
       "email" : "info@navarrosystems.com",
       "platforms":
       [
         {
-          "name": "Automatic Zero Base",
+          "name": "Automatic Zero",
           "architecture": "samd",
           "version": "V1.0",
           "category": "Contributed",
           "url": "https://github.com/",
           "archiveFileName": "a.zip",
-          "checksum": "SHA-256:e6a4c0b37a90a922777556d3af04c0396d9fc7fc47dfa5220f3d3da2410a3bf1",
+          "checksum": "SHA-256:4A8A33506CCCC4313FD0C5D6B90D698991CD4637B5AAC59E72418216B3E9CC47",
           "size": "2381077",
           "boards": [
             {
