@@ -1,0 +1,60 @@
+{
+  "packages":
+  [
+    {
+      "name": "automatic_zero",
+      "maintainer": "Navarro Systems",
+      "websiteURL": "https://navarrosystems.com",
+      "email" : "info@navarrosystems.com",
+      "platforms":
+      [
+        {
+          "name": "Navarro Systems Boards",
+          "architecture": "samd",
+          "version": "V1.0",
+          "category": "Contributed",
+          "url": "https://github.com/Max-GH1/Navarro_Systems_Boards/blob/main/navarro_systems_boards_1.0.zip?raw=true",
+          "archiveFileName": "navarro_systems_boards_1.0.zip",
+          "checksum": "SHA-256:496BB781803B51354BFFF389E4FD9F9100EEF57CAB17358460C77653410875A3",
+          "size": "1607758",
+          "boards": [
+            {
+              "name": "Automatic Zero Base"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
