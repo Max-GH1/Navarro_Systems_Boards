@@ -13,10 +13,10 @@
           "architecture": "samd",
           "version": "V1.0",
           "category": "Contributed",
-          "url": "https://github.com/",
-          "archiveFileName": "a.zip",
+          "url": "https://github.com/Max-GH1/Navarro_Systems_Boards/blob/main/1.0.zip?raw=true",
+          "archiveFileName": "V1.0.zip",
           "checksum": "SHA-256:4A8A33506CCCC4313FD0C5D6B90D698991CD4637B5AAC59E72418216B3E9CC47",
-          "size": "2381077",
+          "size": "1592140",
           "boards": [
             {
               "name": "Automatic Zero Base"
