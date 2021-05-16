@@ -15,8 +15,8 @@
           "category": "Contributed",
           "url": "https://github.com/Max-GH1/Navarro_Systems_Boards/blob/main/navarro_systems_boards_1.0.zip?raw=true",
           "archiveFileName": "navarro_systems_boards_1.0.zip",
-          "checksum": "SHA-256:496BB781803B51354BFFF389E4FD9F9100EEF57CAB17358460C77653410875A3",
-          "size": "1607758",
+          "checksum": "SHA-256:FE468CE209E897B6521FCE74EC6A2040F0043784F1BC661999569BFE7F676700",
+          "size": "1607554",
           "boards": [
             {
               "name": "Automatic Zero Base"
