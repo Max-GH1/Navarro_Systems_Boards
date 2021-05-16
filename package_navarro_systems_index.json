@@ -11,7 +11,7 @@
         {
           "name": "Navarro Systems Boards",
           "architecture": "samd",
-          "version": "V1.0",
+          "version": "1.0",
           "category": "Contributed",
           "url": "https://github.com/Max-GH1/Navarro_Systems_Boards/blob/main/navarro_systems_boards_1.0.zip?raw=true",
           "archiveFileName": "navarro_systems_boards_1.0.zip",
