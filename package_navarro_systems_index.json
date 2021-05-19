@@ -271,12 +271,12 @@
         {
           "name": "Navarro Systems Boards",
           "architecture": "samd",
-          "version": "1.0",
+          "version": "1.0.0",
           "category": "Navarro Systems",
           "url": "https://github.com/Max-GH1/Navarro_Systems_Boards/blob/main/navarro_systems_boards_1.0.zip?raw=true",
-          "archiveFileName": "navarro_systems_boards_1.0.zip",
-          "checksum": "SHA-256:1A0B4288B5D70A6C8F3C7675AA190B7B7C32DDFB87BA2D603502D61D5F4FB4D5",
-          "size": "4070886",
+          "archiveFileName": "navarro_systems_boards_1.0.0.zip",
+          "checksum": "SHA-256:6375116f3d9d2643c51a3b1611c49b1aa3cf23bf3904b172a7905f31f1ed80c8",
+          "size": "4056231",
           "boards": [
             {
               "name": "Automatic Zero Base"
