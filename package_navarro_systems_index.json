@@ -447,8 +447,8 @@
           "category": "Navarro Systems",
           "url": "https://github.com/Max-GH1/Navarro_Systems_Boards/blob/main/navarro_systems_boards_1.0.0.zip?raw=true",
           "archiveFileName": "navarro_systems_boards_1.0.0.zip",
-          "checksum": "SHA-256:A62918899034555760A2F5A5103BB0F3E2AD822D70E7C831EBC4017D8573F74C",
-          "size": "7966971",
+          "checksum": "SHA-256:98D12AD397FD759EFD64336DA2DBD9B131DADF50F6E24CC49C6710E18508E5F0",
+          "size": "7676584",
           "boards": [
             {
               "name": "Automatic Zero Base (Atmel) V1.5"
