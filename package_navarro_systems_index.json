@@ -447,11 +447,17 @@
           "category": "Navarro Systems",
           "url": "https://github.com/Max-GH1/Navarro_Systems_Boards/blob/main/navarro_systems_boards_1.0.0.zip?raw=true",
           "archiveFileName": "navarro_systems_boards_1.0.0.zip",
-          "checksum": "SHA-256:98D12AD397FD759EFD64336DA2DBD9B131DADF50F6E24CC49C6710E18508E5F0",
-          "size": "7676584",
+          "checksum": "SHA-256:110AE1D28D0B74C6C660C07B956C8C74785CBA6B62340873D6214E9C436E23F2",
+          "size": "7849192",
           "boards": [
             {
-              "name": "Automatic Zero Base (Atmel) V1.5"
+              "name": "Automatic Zero Base V1.5"
+            },
+            {
+              "name": "KNX Gateway V1.0"
+            },
+            {
+              "name": "Easy Ground Connect V3.1"
             }
           ],
           "toolsDependencies": [
