@@ -438,6 +438,9 @@
       ],
       "name": "navarro_systems",
       "email": "info@navarrosystems.com",
+      "help": {
+        "online": "https://www.navarrosystems.com/forum"
+      },
       "maintainer": "Navarro Systems",
       "platforms": [
         {
@@ -449,6 +452,9 @@
           "archiveFileName": "navarro_systems_boards_1.0.0.zip",
           "checksum": "SHA-256:5A50F485893BCAA2118CAD956C462C1757EC216C0CBA667CA24BAA527F678A91",
           "size": "7969661",
+          "help": {
+            "online": "https://www.navarrosystems.com/forum"
+          },
           "boards": [
             {
               "name": "Automatic Zero Base V1.5"
@@ -479,7 +485,7 @@
             {
               "packager": "arduino",
               "name": "openocd",
-              "version": "0.10.0-arduino7"
+              "version": "0.11.0-arduino2"
             },
             {
               "packager": "navarro_systems",
