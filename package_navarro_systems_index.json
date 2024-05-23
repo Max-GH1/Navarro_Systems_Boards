@@ -447,8 +447,8 @@
           "category": "Navarro Systems",
           "url": "https://github.com/Max-GH1/Navarro_Systems_Boards/blob/main/navarro_systems_boards_1.0.0.zip?raw=true",
           "archiveFileName": "navarro_systems_boards_1.0.0.zip",
-          "checksum": "SHA-256:B9374C9DF69899B6297AE6C93503528397835B8A5ECB61859D752B3B47E7F828",
-          "size": "8576100",
+          "checksum": "SHA-256:C958D902051F2279412DE9E40909EA52AFC073342461ACD1F95F293411FA9175",
+          "size": "8762243",
           "boards": [
             {
               "name": "Automatic Zero Base V1.5"
@@ -458,6 +458,12 @@
             },
             {
               "name": "Easy Ground Connect V3.1"
+            },
+            {
+              "name": "Antenna Tracker V1.0"
+            },
+            {
+              "name": "Multicockpit Central V1.0"
             }
           ],
           "toolsDependencies": [
