@@ -441,29 +441,29 @@
       "maintainer": "Navarro Systems",
       "platforms": [
         {
-          "name": "Navarro Systems Boards",
+          "name": "Navarro Systems Boards (SAMD)",
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Navarro Systems",
           "url": "https://github.com/Max-GH1/Navarro_Systems_Boards/blob/main/navarro_systems_boards_1.0.0.zip?raw=true",
           "archiveFileName": "navarro_systems_boards_1.0.0.zip",
-          "checksum": "SHA-256:C958D902051F2279412DE9E40909EA52AFC073342461ACD1F95F293411FA9175",
-          "size": "8762243",
+          "checksum": "SHA-256:0EB23483D858A22426E93A0397F07289F681129E783B27ECED90FB27E0C41470",
+          "size": "8879453",
           "boards": [
             {
-              "name": "Automatic Zero Base V1.5"
+              "name": "Automatic Zero Base"
             },
             {
-              "name": "KNX Gateway V1.0"
+              "name": "KNX Gateway"
             },
             {
-              "name": "Easy Ground Connect V3.1"
+              "name": "Easy Ground Connect"
             },
             {
-              "name": "Antenna Tracker V1.0"
+              "name": "Antenna Tracker"
             },
             {
-              "name": "Multicockpit Central V1.0"
+              "name": "Multicockpit Central"
             }
           ],
           "toolsDependencies": [
@@ -485,7 +485,7 @@
             {
               "packager": "arduino",
               "name": "openocd",
-              "version": "0.10.0-arduino7"
+              "version": "0.11.0-arduino2"
             },
             {
               "packager": "navarro_systems",
