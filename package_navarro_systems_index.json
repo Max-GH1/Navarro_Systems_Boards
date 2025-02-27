@@ -464,6 +464,12 @@
             },
             {
               "name": "Multicockpit Central"
+            },
+            {
+              "name": "Remote IO"
+            },
+            {
+              "name": "USB PPM Converter"
             }
           ],
           "toolsDependencies": [
